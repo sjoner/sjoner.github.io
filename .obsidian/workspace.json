@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "a122cb2fce3e5710",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea490d5eb70ccf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcab6daa91a1d597",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd772e80a4607d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e075da858069a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683ea8f21f92d7d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "873c366543579eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f53d6f9681991e3f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f6dc3afbb47262e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a556fc26a348e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38a8ca961e767e5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f0d7c8bcdf272ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9d1a4fcf33cc565",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f18dd9e756de3726",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "683ea8f21f92d7d3",
+  "lastOpenFiles": [
+    "yarn.lock",
+    "package-lock.json",
+    "node_modules/hexo-theme-next/docs/zh-CN/README.md",
+    "node_modules/hexo-theme-next/docs/zh-CN/CONTRIBUTING.md",
+    "node_modules/hexo-theme-next/docs/zh-CN/CODE_OF_CONDUCT.md",
+    "node_modules/hexo-theme-next/docs/ru/README.md",
+    "node_modules/hexo-theme-next/docs/zh-CN",
+    "node_modules/hexo-theme-next/docs/ru",
+    "node_modules/hexo-theme-next/docs/LICENSE.txt",
+    "node_modules/hexo-theme-next/docs/AUTHORS.md",
+    "node_modules/hexo-theme-next/docs/AGPL3.md",
+    "node_modules/hexo-theme-next/docs",
+    "node_modules/hexo/node_modules/entities/package.json",
+    "node_modules/hexo/node_modules/entities/lib/esm/generated/encode-html.js.map",
+    "node_modules/hexo/node_modules/entities/lib/esm/generated/encode-html.js",
+    "node_modules/hexo/node_modules/entities/lib/esm/generated/encode-html.d.ts.map",
+    "node_modules/hexo/node_modules/entities/lib/esm/generated/encode-html.d.ts",
+    "node_modules/source-map-resolve/readme.md",
+    "node_modules/source-map-resolve/changelog.md",
+    "node_modules/escodegen/README.md",
+    "themes/jelly/source/fancybox/helpers/fancybox_buttons.png",
+    "themes/jelly/source/css/fonts/fontawesome-webfont.svg",
+    "themes/jelly/source/img/search.png",
+    "themes/jelly/source/img/rss.png",
+    "themes/jelly/source/img/zhihu.png",
+    "themes/jelly/source/img/weibo.png",
+    "themes/jelly/source/img/pinterest.png",
+    "themes/jelly/source/img/twitter.png",
+    "themes/jelly/source/img/stackoverflow.png",
+    "themes/jelly/source/img/scrollbar_arrow.png",
+    "themes/jelly/README.md",
+    "source/_posts/My-New-Post.md",
+    "node_modules/is-wsl/readme.md",
+    "node_modules/open/readme.md",
+    "node_modules/hexo-server/README.md",
+    "node_modules/acorn-globals/README.md",
+    "node_modules/asynckit/README.md",
+    "node_modules/depd/Readme.md",
+    "node_modules/depd/History.md",
+    "node_modules/escape-html/Readme.md",
+    "node_modules/ejs/README.md",
+    "node_modules/ee-first/README.md",
+    "node_modules/domexception/README.md",
+    "node_modules/decimal.js/README.md",
+    "node_modules/decimal.js/LICENCE.md",
+    "node_modules/debug/CHANGELOG.md"
+  ]
+}
